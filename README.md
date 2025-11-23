@@ -171,7 +171,7 @@ Feel free to open issues, suggest features, or create pull requests.
 
 # Author
 
-Bedantika
+Bedantika Banerjee
 25BCE10597
 
 
